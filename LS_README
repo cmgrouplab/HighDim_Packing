@@ -1,0 +1,6 @@
+For the full and detailed instructions, check the html version
+
+In order to run the executable, e.g., packing.x, using input file "input"
+./packing.x input
+
+i.e., input should be used as an argument for this
